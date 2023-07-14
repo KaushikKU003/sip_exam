@@ -1,7 +1,7 @@
 const Menu = () => {
     return (
       <>
-        <h1 style={{fontSize:"3rem",fontFamily:"serif",textAlign:"center",color:"orange"}}>Our Destinations</h1>
+        <h1 style={{fontSize:"3rem",fontFamily:"serif",textAlign:"center"}}>Our Destinations</h1>
         <div class="container">
           <div class="row">
             <div class=" col-sm-12 col-md-6 col-lg-6">
@@ -9,9 +9,7 @@ const Menu = () => {
               <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1piZhgXJugO_Adue8_O4js2P3aBvj4g8-cA&usqp=CAU" width="400" height="400"class="card-img-top" alt="..." style={{objectFit:"cover"}}></img>
                           <div class="card-body">
                               <h5 class="card-title">kerala Package (5N/6D)</h5>
-                              <p class="card-text">Delicious foods crafted with care and quality ingredients to
-                              satisfy your cravings. From savory dishes to sweet treats, our
-                              products bring joy to every bite</p>
+                              <p class="card-text">Embark on a captivating journey through Kerala, India's enchanting gem. Experience the breathtaking backwaters of Alleppey, explore the lush tea plantations in Munnar, and bask in the serene beauty of the mist-clad hills in Wayanad. Indulge in mouthwatering cuisine, witness vibrant cultural festivals, and unwind on pristine palm-fringed beaches. Kerala awaits your discovery.</p>
                               <div style={{fontFamily:"cursive",fontSize:"1.5rem",}}>Price:16,000 per person</div>
                           </div>
                       </div>
@@ -21,7 +19,7 @@ const Menu = () => {
                           <img  src="https://images.unsplash.com/photo-1593181629936-11c609b8db9b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bWFuYWxpfGVufDB8fDB8fHww&w=1000&q=80" width="400" height="400" class="card-img-top" alt="..." ></img>
                           <div class="card-body">
                               <h5 class="card-title">Manali Package (5N/6D)</h5>
-                              <p class="card-text">Manali is a beautiful hill station in the Indian state of Himachal Pradesh. It is surrounded by snow-capped mountains and lush green forests, making it a stunning destination for nature lovers.</p>
+                              <p class="card-text">Manali, nestled in the breathtaking Himalayas, is a paradise for nature lovers. Its snow-capped peaks, lush valleys, and gushing rivers offer a mesmerizing escape. Adventure seekers can indulge in thrilling activities like skiing and paragliding, while spiritual souls can find solace in ancient temples. Manali is a haven for unforgettable memories.</p>
                               <div style={{fontFamily:"cursive",fontSize:"1.5rem",}}>Price:16,000 per person</div>
                           </div>
                       </div>

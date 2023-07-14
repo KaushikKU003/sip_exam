@@ -81,7 +81,7 @@ const Home = () => {
                               <p class="card-text">Delicious foods crafted with care and quality ingredients to
                               satisfy your cravings. From savory dishes to sweet treats, our
                               products bring joy to every bite</p>
-                              <a href="#" class="btn btn-primary"> Go somewhere</a>
+                              <a href="#" class="btn btn-primary">Know more</a>
                           </div>
                       </div>
                   </div>
@@ -93,7 +93,7 @@ const Home = () => {
                               <p class="card-text">Delicious foods crafted with care and quality ingredients to
                               satisfy your cravings. From savory dishes to sweet treats, our
                               products bring joy to every bite</p>
-                              <a href="#" class="btn btn-primary"> Go somewhere</a>
+                              <a href="#" class="btn btn-primary">Know more</a>
                           </div>
                       </div>
                   </div>
@@ -105,7 +105,7 @@ const Home = () => {
                               <p class="card-text">Delicious foods crafted with care and quality ingredients to
                               satisfy your cravings. From savory dishes to sweet treats, our
                               products bring joy to every bite</p>
-                              <a href="#" class="btn btn-primary"> Go somewhere</a>
+                              <a href="#" class="btn btn-primary">Know more</a>
                           </div>
                       </div>
                   </div>
@@ -117,7 +117,7 @@ const Home = () => {
                               <p class="card-text">Delicious foods crafted with care and quality ingredients to
                               satisfy your cravings. From savory dishes to sweet treats, our
                               products bring joy to every bite</p>
-                              <a href="#" class="btn btn-primary"> Go somewhere</a>
+                              <a href="#" class="btn btn-primary">Know more</a>
                           </div>
                       </div>
                   </div>
@@ -129,7 +129,7 @@ const Home = () => {
                               <p class="card-text">Delicious foods crafted with care and quality ingredients to
                               satisfy your cravings. From savory dishes to sweet treats, our
                               products bring joy to every bite</p>
-                              <a href="#" class="btn btn-primary"> Go somewhere</a>
+                              <a href="#" class="btn btn-primary">Know more</a>
                           </div>
                       </div>
                   </div>
@@ -141,7 +141,7 @@ const Home = () => {
                               <p class="card-text">Delicious foods crafted with care and quality ingredients to
                               satisfy your cravings. From savory dishes to sweet treats, our
                               products bring joy to every bite</p>
-                              <a href="#" class="btn btn-primary"> Go somewhere</a>
+                              <a href="#" class="btn btn-primary">Know more</a>
                           </div>
                       </div>
                   </div>
